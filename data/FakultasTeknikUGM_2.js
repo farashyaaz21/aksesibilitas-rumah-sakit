@@ -1,0 +1,1 @@
+var json_FakultasTeknikUGM_2 = {"type":"FeatureCollection","name":"FakultasTeknikUGM_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"Nama":"Fakultas Teknik UGM"},"geometry":{"type":"Point","coordinates":[110.372290704260365,-7.765307214843036]}}]}
